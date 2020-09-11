@@ -1,2 +1,2 @@
 #!/bin/bash
-cd dir1
+cd -
