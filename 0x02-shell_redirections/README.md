@@ -1,0 +1,1 @@
+All this commands are made to prints and redirect 
