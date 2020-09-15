@@ -1,0 +1,1 @@
+0-alias= Ls can do the job of ls -a
